@@ -3,6 +3,6 @@ Ciphermachine is a collection of cipheralgorithms implemented in Python. It is a
 
 ## Supported Algorithms
 - [x] ROT13
-- [ ] Ceasar Cipher
+- [X] Ceasar Cipher
 - [ ] Enigma Machine
 
