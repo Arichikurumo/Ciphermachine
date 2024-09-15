@@ -1,6 +1,6 @@
 # ROT13 Implementation Script
 
-def rot13encrypt(text):
+def rot13Encrypt(text):
     result = []
 
     for char in text:
@@ -20,7 +20,7 @@ def rot13encrypt(text):
     
     return ''.join(result)
 
-def rot13decrypt(text):
+def rot13Decrypt(text):
     result = []
 
     for char in text:
